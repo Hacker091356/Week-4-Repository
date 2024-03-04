@@ -1,11 +1,12 @@
 /**
- * Write a description of class NumberFormatExample here.
+ * Using this sample code to understand different ways to format text
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @date NEIL OZA
+ * @date 3/1/2024
  */
 import java.text.NumberFormat;
-public class Numbers
+public class Number
+
 {
    
 
