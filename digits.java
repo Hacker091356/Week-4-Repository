@@ -7,6 +7,7 @@ public class digits {
         //Ask for input
         System.out.print("Enter a 3 digit number:");
         int number = userInput.nextInt();
+        userInput.close();
         int onesPlace = number % 10;
         int tensForCalculatingHundreds = (number - (onesPlace))%10;
         int tensPlace = (number % 100 - onesPlace)/ 10;
